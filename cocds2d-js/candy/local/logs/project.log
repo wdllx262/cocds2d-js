@@ -1,0 +1,65 @@
+2018-05-18T15:19:05.604Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-18T15:19:05.609Z - normal: checking language setting...
+2018-05-18T15:19:05.609Z - normal: Language: zh
+2018-05-18T15:19:06.717Z - success: protocol editor-framework registered
+2018-05-18T15:19:06.717Z - success: protocol app registered
+2018-05-18T15:19:06.718Z - success: protocol packages registered
+2018-05-18T15:19:06.718Z - success: protocol theme registered
+2018-05-18T15:19:06.718Z - success: protocol unpack registerred
+2018-05-18T15:19:06.931Z - normal: connected!
+2018-05-18T15:19:06.935Z - normal: Check project C:\Users\Administrator\Desktop\新建文件夹\15211160209\candy
+2018-05-18T15:19:06.939Z - normal: Initializing Cocos Creator Editor
+2018-05-18T15:19:07.157Z - normal: Initializing Cocos2d
+2018-05-18T15:19:07.299Z - normal: Initializing Asset Database
+2018-05-18T15:19:07.314Z - success: protocol uuid registerred
+2018-05-18T15:19:07.314Z - success: protocol db registerred
+2018-05-18T15:19:07.314Z - success: protocol thumbnail registerred
+2018-05-18T15:19:07.314Z - normal: Loading editor/builtin packages
+2018-05-18T15:19:07.413Z - success: assets loaded
+2018-05-18T15:19:07.415Z - success: builder loaded
+2018-05-18T15:19:07.417Z - success: hierarchy loaded
+2018-05-18T15:19:07.419Z - success: inspector loaded
+2018-05-18T15:19:07.420Z - success: keystore loaded
+2018-05-18T15:19:07.422Z - success: node-library loaded
+2018-05-18T15:19:07.424Z - success: preferences loaded
+2018-05-18T15:19:07.438Z - success: project-importer loaded
+2018-05-18T15:19:07.441Z - success: project-settings loaded
+2018-05-18T15:19:07.444Z - success: ui-kit loaded
+2018-05-18T15:19:07.446Z - success: ui-grid loaded
+2018-05-18T15:19:07.449Z - success: scene loaded
+2018-05-18T15:19:07.450Z - success: sprite-editor loaded
+2018-05-18T15:19:07.455Z - success: timeline loaded
+2018-05-18T15:19:07.455Z - normal: Loading builtin packages
+2018-05-18T15:19:07.457Z - success: asset-db-debugger loaded
+2018-05-18T15:19:07.459Z - success: code-editor loaded
+2018-05-18T15:19:07.459Z - success: color-picker loaded
+2018-05-18T15:19:07.461Z - success: console loaded
+2018-05-18T15:19:07.462Z - success: package-manager loaded
+2018-05-18T15:19:07.464Z - success: tester loaded
+2018-05-18T15:19:07.466Z - success: ui-kit-preview-extra loaded
+2018-05-18T15:19:07.467Z - success: ui-kit-preview loaded
+2018-05-18T15:19:07.467Z - success: ui-tree loaded
+2018-05-18T15:19:07.491Z - normal: Initializing project C:\Users\Administrator\Desktop\新建文件夹\15211160209\candy
+2018-05-18T15:19:07.493Z - warn: Profile local-local warning: reset profile field: last-edit
+2018-05-18T15:19:07.495Z - normal: Loading packages
+2018-05-18T15:19:07.499Z - normal: Run Application
+2018-05-18T15:19:07.783Z - success: preview server running at http://localhost:7456
+2018-05-18T15:20:45.117Z - normal: 1.2.0
+2018-05-18T15:22:48.132Z - success: VS Code extension installed to C:\Users\Administrator\.vscode\extensions
+2018-05-18T15:25:13.214Z - success: VS Code extension installed to C:\Users\Administrator\.vscode\extensions
+2018-05-18T15:25:14.368Z - error: Error: ENOTEMPTY: directory not empty, rmdir 'C:\Users\Administrator\.vscode\extensions\cocos-creator\out\src'
+    at Error (native)
+    at Object.fs.rmdirSync (fs.js:880:18)
+    at rmkidsSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:342:11)
+    at rmdirSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:332:7)
+    at rimrafSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:303:9)
+    at C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:340:5
+    at Array.forEach (native)
+    at rmkidsSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:339:26)
+    at rmdirSync (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:332:7)
+    at Function.rimrafSync [as sync] (C:\CocosCreator\resources\app.asar\node_modules\rimraf\rimraf.js:303:9)
+    at process.<anonymous> (C:\CocosCreator\resources\app.asar\editor\core\editor-init.js:1:199)
+    at emitOne (events.js:101:20)
+    at process.emit (events.js:188:7)
+    at process._fatalException (node.js:276:26)
+2018-05-18T15:30:01.085Z - info: shutdown preview server
